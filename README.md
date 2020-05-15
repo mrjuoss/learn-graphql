@@ -1,0 +1,1 @@
+# GraphQL from Strach - Realtime Mongodb, Express, React and Node (MERN) Stack with React
