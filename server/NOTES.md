@@ -29,3 +29,14 @@
 1. cd server
 2. Create a new folder ie. resolvers
 3. Create files like files in folder typeDefs
+
+## Connect Server to Database ie. MongoDB Atlas or MongoDB on Local Computer
+
+### Mongo Atlas
+- Free Service can only use one connection
+- Log In [MongoDB Atlas](http://mongodb.com/cloud/atlas)
+- Create a (free) Cluster ie. GraphQLReactNode
+- Add white list Network Access (Access from Any IP Address Anywhere)
+- Add Database User to Access the Database to Read and Write to any database
+- Connect Cluster to Application
+- install mongoose -> npm i mongoose
